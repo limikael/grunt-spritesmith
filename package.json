@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "async": "~0.9.0",
-    "spritesheet-templates": "git+https://github.com/limikael/spritesheet-templates.git#f4eb470fe2c222a52de456784b788b70a0b80571",
+    "spritesheet-templates": "git+https://github.com/limikael/spritesheet-templates.git#117e8ba551f1b98b974d36593b946e7b050f5c4c",
     "spritesmith": "~1.3.0",
     "underscore": "~1.4.2",
     "url2": "1.0.0"
